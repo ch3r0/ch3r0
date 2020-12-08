@@ -2,15 +2,15 @@
 
 
 
-![DragSama's github stats](https://github-readme-stats.vercel.app/api?username=dragsama&show_icons=true&theme=radical&hide_title=true)
+![DragSama's github stats](https://github-readme-stats.vercel.app/api?username=ch3r0&show_icons=true&theme=radical&hide_title=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragsama&theme=radical&card_width=450)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch3r0&theme=radical&card_width=450)
 
 
 
-- 🔭 I’m currently working on [AniFluid](https://t.me/AniFluidBot), [Sibyl System](https://github.com/AnimeKaizoku/SibylSystem), [Tamokuteki](https://github.com/DragSama/Tamokuteki)
-- 🌱 I’m currently learning - Python, Rust
-- 📫 Reach me on [Telegram](https://t.me/DragSama)
+- 🔭 I’m currently working on [CyberByte](https://t.me/thecyberbyte)
+- 🌱 I’m currently learning - Python, Rust,JS
+- 📫 Reach me on [Telegram](https://t.me/iamch3r0)
 
 <img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "right">
 
